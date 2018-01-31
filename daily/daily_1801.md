@@ -42,3 +42,15 @@ Anime, Comic, Game的缩写。是一个基本只有华语圈使用的词。（�
 *日文、英文里没有像中文这样概括OTAKU系分类的词汇。虽然说中文版维基百科的词条里写道「有较为类似的词MAG（漫画、动画、游戏）」，本百科初版的编辑者也是看了才知道有这么一回事。这不是「MAG·ネット」（PS. 曾于2010-2013放送的一档御宅向资讯节目）里才用的生造词吗……*
 
 くそワロタ
+
+#### References
+
+[中文维基百科的词条：ACG](https://zh.wikipedia.org/wiki/ACG)
+
+[NICONICO大百科的词条：ACG](http://dic.nicovideo.jp/a/acg)
+
+[英文维基词典的词条：Anime](https://en.wiktionary.org/wiki/Anime)
+
+[爱词霸词条(柯林斯释义)：comic](http://www.iciba.com/comic)
+
+[英文维基百科：Comics](https://en.wikipedia.org/wiki/Comics)
