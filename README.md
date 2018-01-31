@@ -14,5 +14,9 @@ Talks of nouns used by otaku. (in Chinese)
 
 介绍暂时就写这么多吧。想起来写的时候会先commit到这个Git仓库里，再push到GitHub、发送到微博（人工）。
 
-## Important Updates
-- 2018.01.30 Repository created.
+## 重要更新
+- 2018.01.30 Repository创建。
+- 2018.01.31 首个词条(?)创建。 
+
+## Log
+- 2018.01.31 创建词条：ACG
