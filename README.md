@@ -18,7 +18,8 @@ Talks of nouns used by otaku. (in Chinese)
 0. [Hello World](https://github.com/HasukaPoi/OtakuTermsTalk/blob/master/article/00_HelloWorld.md)
 1. [ACG](https://github.com/HasukaPoi/OtakuTermsTalk/blob/master/article/01_ACG.md)
 2. [GalGame &他](https://github.com/HasukaPoi/OtakuTermsTalk/blob/master/article/02_GalGameAnd.md)
-
+3. [【UNDER CONSTRUCTION】“**厨**房”和“**キチ**ガイ”](https://github.com/HasukaPoi/OtakuTermsTalk/blob/master/article/03_ChuboAndKichigai.md)
+ 
 ## 重要更新
 - 2018.01.30 Repository创建。
 - 2018.01.31 首个词条(?)创建。 
@@ -28,3 +29,4 @@ Talks of nouns used by otaku. (in Chinese)
 ## 词条更新
 - 2018.01.31 创建词条：《ACG》。
 - 2018.02.07 《GalGame &他》完工。感谢与我讨论的诸君。
+- 2018.11.30 《“**厨**房”和“**キチ**ガイ”》开工。
