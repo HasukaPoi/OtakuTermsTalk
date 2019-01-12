@@ -20,21 +20,13 @@ Talks of nouns used by otaku. (in Chinese)
 2. [GalGame &他](https://github.com/HasukaPoi/OtakuTermsTalk/blob/master/article/02_GalGameAnd.md)
 3. [【UNDER CONSTRUCTION】“**厨**房”和“**キチ**ガイ”](https://github.com/HasukaPoi/OtakuTermsTalk/blob/master/article/03_ChuboAndKichigai.md)
  
-## 项目更新
+## 重要更新
 - 2018.01.30 Repository创建。
 - 2018.01.31 首个词条(?)创建。 
 - 2018.02.08~2018.11.29 坑了。
 - 2018.11.30 又捡起来了（也许）。
-- 2019.01.12 针对排版格式等进行了小量更新和规范。
 
 ## 词条更新
 - 2018.01.31 创建词条：《ACG》。
 - 2018.02.07 《GalGame &他》完工。感谢与我讨论的诸君。
 - 2018.11.30 《“**厨**房”和“**キチ**ガイ”》开工。
-
-## 其他说明
-中文排版以 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) 为参考。目前正在逐步修改格式。
-
-Reference（参考/引用）格式使用HTML锚的实现，为手工排版，需要高效的形式（自己写个编译器？）。
-
-想到再补充。
