@@ -6,6 +6,7 @@
 
 1. 本文含有（大部分）独自研究，不具有普遍性。
 2. 请尽量避免在可能有人围观屏幕的情况下阅读本文。
+3. (2019.1.12新) 针对参考文献引用调整了格式。
 
 ## 引子
 
@@ -39,7 +40,7 @@ GalGame的原词是日语的「ギャルゲー」，然而事实上这个词在�
 
 当我在Yahoo日本搜索「ギャルゲー　定義」的时候却不意外地吃了一惊，然后是头大。
 
-包括年代因素在内，有很多种有差异的说法，但比较普遍提到的一点是：
+包括年代因素在内，有很多种有差异的说法，但比较普遍提到的一点是：<sup>[CESHI](#WAI)</sup>
 
 > ギャルゲー是从「エロゲー」里把「エロ」拿掉之后的东西。
 
@@ -183,3 +184,6 @@ GalGame的原词是日语的「ギャルゲー」，然而事实上这个词在�
 起草于2018年2月1日，动笔于2018年2月4日。
 
 2018年2月7日第一版。
+
+<A NAME="ROP_ON_ARM">Davi L, Dmitrienko A, Sadeghi A R, et al. [Return-oriented programming without returns on ARM](http://www.trust.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TRUST/PubsPDF/ROP-without-Returns-on-ARM.pdf)[J]. System Security Lab-Ruhr University Bochum, Tech. Rep, 2010.</a>
+ 
